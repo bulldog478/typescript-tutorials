@@ -1,0 +1,33 @@
+{
+  "name": "typescript-tutorials",
+  "version": "1.0.0",
+  "description": "typescirpt basic",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bulldog478/typescript-tutorials.git"
+  },
+  "keywords": [
+    "typescript",
+    "tutortials"
+  ],
+  "author": "Zan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bulldog478/typescript-tutorials/issues"
+  },
+  "homepage": "https://github.com/bulldog478/typescript-tutorials#readme",
+  "dependencies": {
+    "angular-strap": "^2.3.9",
+    "es6-promise": "^4.0.5",
+    "typescript": "^2.0.3"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^2.2.4",
+    "raw-loader": "^0.5.1",
+    "tslint": "^3.15.1"
+  }
+}
